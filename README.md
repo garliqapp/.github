@@ -1,2 +1,1 @@
-# GarliQ App
-
+# .github
